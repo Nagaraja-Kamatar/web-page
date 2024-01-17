@@ -33,3 +33,14 @@ Welcome to the Book Shop Project! This web application is designed to provide a 
 
 ### 10. **Order Tracking**
    - Track the status of your orders from processing to delivery, ensuring transparency in the shopping process.
+## Getting Started
+
+Follow these steps to get started with the Book Shop Project:
+1. Clone this repository.
+2. Open the `index.html` file in your preferred web browser.
+3. Browse through the book catalog, add books to your cart, and create an account to unlock additional features.
+4. Proceed to checkout and enjoy your new reads!
+
+Whether you're a bookworm or shopping for someone special, we hope you have a delightful experience with our Book Shop Project. If you encounter any issues or have suggestions, feel free to open an issue in this repository.
+
+Happy reading and shopping!
