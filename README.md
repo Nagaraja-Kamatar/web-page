@@ -21,4 +21,16 @@ Welcome to the Book Shop Project! This web application is designed to provide a 
 
 ### 6. **Responsive Design**
    - Enjoy a consistent and visually appealing shopping experience on various devices.
+   - 
+### 7. **Search and Filter Options**
+   - Find specific books easily with a powerful search feature and filter options based on author, genre, and more.
+
+### 8. **Secure Checkout Process**
+   - Experience a secure and straightforward checkout process for a hassle-free shopping experience.
+
+### 9. **Wishlist Feature**
+   - Save books for later with a wishlist feature, making it easy to revisit and purchase items.
+
+### 10. **Order Tracking**
+   - Track the status of your orders from processing to delivery, ensuring transparency in the shopping process.
 
