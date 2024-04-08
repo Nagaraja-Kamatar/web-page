@@ -28,5 +28,10 @@ Welcome to the Book Shop Project! This web application is designed to provide a 
    - Experience a secure and straightforward checkout process for a hassle-free shopping experience.
 
 
+### 9. **Wishlist Feature**
+   - Save books for later with a wishlist feature, making it easy to revisit and purchase items.
+
+### 10. **Order Tracking**
+   - Track the status of your orders from processing to delivery, ensuring transparency in the shopping process.
 
 
