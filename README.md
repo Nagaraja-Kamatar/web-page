@@ -23,4 +23,14 @@ Welcome to the Book Shop Project! This web application is designed to provide a 
    - Enjoy a consistent and visually appealing shopping experience on various devices.
    - 
 ### 7. **Search and Filter Options**
-   - Find specific books easily with a powerful search feature and filter options
+   - Find specific books easily with a powerful search feature and filter options.
+   - ### 4. **Interactive Shopping Cart**
+   - Add books to your cart seamlessly, with real-time updates on the total price.
+
+### 5. **User Accounts**
+   - Create a personalized account to track your order history, manage preferences, and save favorite books.
+### 6. **Responsive Design**
+   - Enjoy a consistent and visually appealing shopping experience on various devices.
+   - 
+### 7. **Search and Filter Options**
+   - Find specific books easily with a powerful search feature and filter options.
